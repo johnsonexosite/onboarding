@@ -1,5 +1,11 @@
-### 0. Create a Solution in Staging
-**Link: https://www.exosite-staging.com/business/**
+### 0. Go through quickstart
+- [Lightbulb quickstart](http://docs.exosite.com/quickstarts/lightbulb/)
+- [Solution quickstart](http://docs.exosite.com/quickstarts/solutions/exampleapp/)
+	- In this quickstart, you can see some lua scripts from the [Home Automation Template](https://github.com/exosite/home-automation-example)
+
+
+### 1. Create a Solution in Staging
+**Link: [https://www.exosite-staging.com/business/](https://www.exosite-staging.com/business/)**
 
 - Sign up command:
 
